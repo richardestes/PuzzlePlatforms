@@ -1,0 +1,37 @@
+[
+	{
+		"file": "F:\\\\Developer\\\\UE4\\\\PuzzlePlatforms\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatforms.Build.cs",
+		"command": "cl.exe @\"F:\\Developer\\UE4\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.190.rsp\"",
+		"directory": "F:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Developer\\\\UE4\\\\PuzzlePlatforms\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatforms.cpp",
+		"command": "cl.exe @\"F:\\Developer\\UE4\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.190.rsp\"",
+		"directory": "F:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Developer\\\\UE4\\\\PuzzlePlatforms\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatforms.h",
+		"command": "cl.exe @\"F:\\Developer\\UE4\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.190.rsp\"",
+		"directory": "F:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Developer\\\\UE4\\\\PuzzlePlatforms\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsCharacter.cpp",
+		"command": "cl.exe @\"F:\\Developer\\UE4\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.190.rsp\"",
+		"directory": "F:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Developer\\\\UE4\\\\PuzzlePlatforms\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsCharacter.h",
+		"command": "cl.exe @\"F:\\Developer\\UE4\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.190.rsp\"",
+		"directory": "F:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Developer\\\\UE4\\\\PuzzlePlatforms\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsGameMode.cpp",
+		"command": "cl.exe @\"F:\\Developer\\UE4\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.190.rsp\"",
+		"directory": "F:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "F:\\\\Developer\\\\UE4\\\\PuzzlePlatforms\\\\Source\\\\PuzzlePlatforms\\\\PuzzlePlatformsGameMode.h",
+		"command": "cl.exe @\"F:\\Developer\\UE4\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.190.rsp\"",
+		"directory": "F:\\UE_4.26\\Engine\\Source"
+	}
+]
